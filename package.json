@@ -1,0 +1,21 @@
+{
+  "name": "nate-page",
+  "version": "1.0.0",
+  "description": "personal webpage",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate4y/NatePage.git"
+  },
+  "author": "nate4y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate4y/NatePage/issues"
+  },
+  "homepage": "https://github.com/nate4y/NatePage#readme"
+}
