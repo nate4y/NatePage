@@ -9,6 +9,7 @@ import { RouterModule } from '@angular/router';
 import { TypographyComponent } from './typography/typography.component';
 import { NucleoiconsComponent } from './nucleoicons/nucleoicons.component';
 import { ComponentsComponent } from './components.component';
+import { PicfeedComponent } from './picfeed/picfeed.component';
 
 @NgModule({
     imports: [
@@ -23,6 +24,7 @@ import { ComponentsComponent } from './components.component';
         ComponentsComponent,
         TypographyComponent,
         NucleoiconsComponent,
+        PicfeedComponent
     ],
     exports:[ ComponentsComponent ]
 })
